@@ -5,3 +5,4 @@ Added header title to webpage
 Added alt attribute tags to images
 Added titles to images
 comment labeled css file
+linked local files and git repo
